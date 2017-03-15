@@ -1,0 +1,78 @@
+﻿Compilación iniciada a las 31/01/2016 17:24:07.
+     1>Proyecto "D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\freeglut\include\\" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Autopista.cpp Boxes.cpp Camara.cpp Cara.cpp Cilindro.cpp Coche.cpp Color.cpp Cubo.cpp Curva.cpp Escena.cpp Esfera.cpp Farola.cpp Ficha.cpp Faro.cpp main.cpp Malla.cpp Objeto3D.cpp ObjetoCompuesto3D.cpp ObjetoCuadrico.cpp Proteccion.cpp PV3D.cpp Quesito.cpp Tablero.cpp TAfin.cpp TextureLoader.cpp Toro.cpp VerticeNormal.cpp Volante.cpp
+         Volante.cpp
+         VerticeNormal.cpp
+         Toro.cpp
+         TextureLoader.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\textureloader.cpp(100): warning C4018: '<' : no coinciden signed/unsigned
+         TAfin.cpp
+         Tablero.cpp
+         Quesito.cpp
+         PV3D.cpp
+         Proteccion.cpp
+         ObjetoCuadrico.cpp
+         ObjetoCompuesto3D.cpp
+         Objeto3D.cpp
+         Malla.cpp
+         main.cpp
+         Faro.cpp
+         Ficha.cpp
+         Farola.cpp
+         Esfera.cpp
+         Escena.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\escena.cpp(47): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Curva.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\curva.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Generando código...
+         Compilando...
+         Cubo.cpp
+         Color.cpp
+         Coche.cpp
+         Cilindro.cpp
+         Cara.cpp
+         Camara.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\camara.cpp(315): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\camara.cpp(317): warning C4244: 'argumento' : conversión de 'double' a 'GLfloat'; posible pérdida de datos
+         Boxes.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\boxes.cpp(19): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Autopista.cpp
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\autopista.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+     1>d:\informatica\inf.grafica\practicas\practica 3\freeglut project 3d\freeglut project 3d\autopista.cpp(9): warning C4305: 'argumento' : truncamiento de 'double' a 'GLfloat'
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\Debug\freeglut project 3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\freeglut\lib\\" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\Debug\freeglut project 3D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\Debug\freeglut project 3D.lib" /MACHINE:X86 Debug\Autopista.obj
+         Debug\Boxes.obj
+         Debug\Camara.obj
+         Debug\Cara.obj
+         Debug\Cilindro.obj
+         Debug\Coche.obj
+         Debug\Color.obj
+         Debug\Cubo.obj
+         Debug\Curva.obj
+         Debug\Escena.obj
+         Debug\Esfera.obj
+         Debug\Farola.obj
+         Debug\Ficha.obj
+         Debug\Faro.obj
+         Debug\main.obj
+         Debug\Malla.obj
+         Debug\Objeto3D.obj
+         Debug\ObjetoCompuesto3D.obj
+         Debug\ObjetoCuadrico.obj
+         Debug\Proteccion.obj
+         Debug\PV3D.obj
+         Debug\Quesito.obj
+         Debug\Tablero.obj
+         Debug\TAfin.obj
+         Debug\TextureLoader.obj
+         Debug\Toro.obj
+         Debug\VerticeNormal.obj
+         Debug\Volante.obj
+         freeglut project 3D.vcxproj -> D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\Debug\freeglut project 3D.exe
+     1>Compilación del proyecto terminada "D:\INFORMATICA\INF.GRAFICA\Practicas\Practica 3\freeglut project 3D\freeglut project 3D\freeglut project 3D.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:33.75

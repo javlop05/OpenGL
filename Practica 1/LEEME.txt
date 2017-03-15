@@ -1,0 +1,7 @@
+Al compilar el programa no se mostrara ningun objeto por pantalla,
+hay que pulsar un número para que se muestre un objeto:
+
+1.- Cubo
+2.- Quesito
+3.- Ficha
+4.- MontañaRusa
